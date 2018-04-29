@@ -1,0 +1,314 @@
+[
+  {
+    "week": 1,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 2,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 3,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 4,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 5,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 6,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 7,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 8,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 9,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 10,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 11,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 12,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 13,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 14,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 15,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 16,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 17,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 18,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 19,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 20,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 21,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 22,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 23,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 24,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 25,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 26,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 27,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 28,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 29,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 30,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 31,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 32,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 33,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 34,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 35,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 36,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 37,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 38,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 39,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 40,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 41,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 42,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 43,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 44,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 45,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 46,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 47,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 48,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 49,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 50,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  },
+  {
+    "week": 51,
+    "colour": "grey",
+    "type": "recycling",
+    "day": "tuesday"
+  },
+  {
+    "week": 52,
+    "colour": "green",
+    "type": "general waste",
+    "day": "tuesday"
+  }
+]
